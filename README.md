@@ -1,5 +1,5 @@
 # webcrawlForWorkday
-<p>This is a web crawler that crawls the job postings from workday (The alogorithm is refered from the python version on github)
+<p>This is a web crawler that crawls the job postings from workday (The alogorithm is referred from the python version on github)
 
 <p>To use the crawler:
 <p>Put the name and the url of the company in workday.json
